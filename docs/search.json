@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Renee Nicholson",
+    "section": "",
+    "text": "Hello! My name is Renee and I use she/her/hers pronouns. I am a senior, Chemistry major at Macalester College, with minors in Biology and Data Science. I play on the softball team and in my free time, I enjoy going on walks, hanging out with family and friends, trying new recipes, and crafting.\nIn the fall of 2023, I had the amazing opportunity to study away for a semester in Scotland.\n\n\nMacalester College | St. Paul MN  B.A. in Chemistry | Sept 2021 - Present"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Renee Nicholson",
+    "section": "",
+    "text": "Macalester College | St. Paul MN  B.A. in Chemistry | Sept 2021 - Present"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "projects.html#quarto",
+    "href": "projects.html#quarto",
+    "title": "Projects",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "projects.html#running-code",
+    "href": "projects.html#running-code",
+    "title": "Projects",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello!"
+  }
+]
